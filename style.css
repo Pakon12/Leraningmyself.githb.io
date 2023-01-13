@@ -1,0 +1,27 @@
+body {
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*border: 1px solid rgb(219, 70, 70);*/
+}
+
+.main h1 {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    /*border: 1px solid rgb(219, 70, 70);*/
+}
+
+.main a {
+    display: block;
+    width: 50px;
+    margin-left: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border: 2px solid rgb(219, 70, 70);
+}
